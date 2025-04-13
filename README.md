@@ -11,12 +11,13 @@
 
 
 # Zzz:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaya0s&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaya0s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
     <img src="https://readme-typing-svg.herokuapp.com?color=149414&width=380&height=28&lines=I'm+allergic+to+mornings..;Powered+by+caffeine+and+sarcasm..&center=true">
 </div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
