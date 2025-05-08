@@ -1,7 +1,5 @@
 
-# 👤 About Me:
- <p>Learning</p>
- <img src="/rick.png" alt="Online Image" width="300">
+<img src="https://readme-typing-svg.herokuapp.com?color=149414&width=380&height=28&lines=I'm+allergic+to+mornings..;Powered+by+caffeine+and+sarcasm..&center=true">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kaya0s/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yaosthegreat/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erwin-lanzaderas-263812312/) 
@@ -26,8 +24,7 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-    <img src="https://readme-typing-svg.herokuapp.com?color=149414&width=380&height=28&lines=I'm+allergic+to+mornings..;Powered+by+caffeine+and+sarcasm..&center=true">
+   
  
 </div>
 
