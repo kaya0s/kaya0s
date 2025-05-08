@@ -18,28 +18,10 @@
 </div>
 
 
-###
-
-<br clear="both">
-
-
-<div style="display: flex; justify-content: center; align-items: center;">
-   
- 
-</div>
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaya0s/kaya0s/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaya0s/kaya0s/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/kaya0s/kaya0s/output/github-snake.svg" />
 </picture>
-
-
-
-
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
