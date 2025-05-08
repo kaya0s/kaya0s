@@ -26,10 +26,4 @@
 
 
 
-
-
-
-![snake gif](https://github.com/kaya0s/kaya0s/blob/output/github-contribution-grid-snake.gif)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
