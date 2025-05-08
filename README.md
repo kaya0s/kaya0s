@@ -24,15 +24,20 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kaya0s/kaya0s/output/snake.svg" alt="Snake animation" />
-
-
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
     <img src="https://readme-typing-svg.herokuapp.com?color=149414&width=380&height=28&lines=I'm+allergic+to+mornings..;Powered+by+caffeine+and+sarcasm..&center=true">
  
 </div>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaya0s/kaya0s/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaya0s/kaya0s/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kaya0s/kaya0s/output/github-snake.svg" />
+</picture>
 
 
 
