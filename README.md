@@ -17,7 +17,17 @@
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
     <img src="https://readme-typing-svg.herokuapp.com?color=149414&width=380&height=28&lines=I'm+allergic+to+mornings..;Powered+by+caffeine+and+sarcasm..&center=true">
+ 
 </div>
+
+
+
+
+
+
+
+
+
 
 ![snake gif](https://github.com/kaya0s/kaya0s/blob/output/github-contribution-grid-snake.gif)
 
