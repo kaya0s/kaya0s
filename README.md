@@ -19,5 +19,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=149414&width=380&height=28&lines=I'm+allergic+to+mornings..;Powered+by+caffeine+and+sarcasm..&center=true">
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
