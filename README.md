@@ -7,7 +7,7 @@
 </div>
 
   
-A Developer soon focusing on Game Development.
+A Fullstack Developer.
 
 
 ## 🌐 Socials:
