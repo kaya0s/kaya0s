@@ -16,51 +16,35 @@ W = 56  # info column width in characters
 
 ART = r"""
 
-WWWWoi.Ii  .:  ,:,. .   ;  :   .   :i         
-WWWMp,I : ,.:  !i.:.,  :, .:       ,,            
-WWWMLI: . .;  :F:,.::  t, It  z    :,        ;       
-WWWMC : ...,  nI:.,:: :I  iY  d    ::        I 
-WMWMQxl .;i   pI:,,;: i. :TY  q,   ,t   .l; i  
-MWMMmpz .:I   nv   l. I  .Fz  Fq   it:  ;! .x  
-WWWoom:C.,;  .cj., .: : ,,tJ  Ib;  :,l.,:t tb  
-WWWoodkuF,.  ,iaL .  ,:  . qi..hC    :,:T.,ab  
-WMWMaobLu,   ::npv.,. m.  :;!j ixl..  F:! ;F:  
-MWWWMModd; :;;!lIrJ.,..m;  t.cf.bpu:F;iT,tQU;  
-WWWWWMomYY   :  uuiiF;.:dY,,zuj,.qdL!x, Yuob; ::
-WWWModhxY.  .   rowvubt.ipobwXkkmluf:.uLv;jTU : 
-WMMoQaUlI      ;UCoaqaMoc;JMMobutr!,i;TtQvcJx 
-WMkQam:i  .    jahdLhMMWMMMMWMbnTImaoau,..,:i:
-oqohwl.l;,X    UopQhdpoMWWWWWWMMMMMWWMonCYFJ;.
-qMhwt.rX,:..  IoQaMMWMbbMMMWWMMopmzpkMMkqdaw,v
-MhmT:YY.I ;.  naMMWWWWMopkMMMWWMMMabCUvrvCXntC,
-kQTlnT,;..:.jhMMWWWWWWWMMappaMMMWWMMMaohbdQFp.
-m,ju;jI. .  FoMWWWWWMWWWWWMMMhdpdhoMopMMMmLohod
-i!v!u,t      ikMMMMWWWWWWWWWWWWMMohppdaMMMMokd
-,Inx:J        npbzwoMMMWWWWWWWWWWMMphMokdpbhdaM
-.CCci  i      fMMMMMMWWWWWWWWWWWWMppMMMMMMMoahdp
-CdU  .Ul      ,oMWWWWMMWWWWWWWWMMdpooooohbppbhaMM
-bq, :Fr.       zoMMWWWWMMMMMakbpppdkaaoMMMMWWWWW
-J; :nc         ;r!hMMMWWMMMMMMWMpoMWWWWWMWWWWWWW
-wFIvY.        .,rooMohMMWWWWWWMhpMMWWWWWWMWWWWW
-j,jJ         ,: .hMWMoaXbMWWWWopMMWWWMWWWWWWWWWMM     
- Fz.        .Tl   !kMMMMMMWWMMpoMWMWWWWMWWWWWWWW    .    ,  , .l,,,            
-p;.       . ,t  ! joohMWWWWWMabMWWWWWWWWWWWWWWWMMm,.     .  ; ,,,..             
-U,        . ..    ;MMMWWWWMWMdMWWWWWWMWMWWWMMopt  i!,   .. :.,::.               
-;        :        .MMWMWMWWMoMMWMWWWWWMMMMbX.,tmooqrYi, .i,,.,i.             .. 
-        n;   l   . hMMWWWWWWMWWWWMMMopFlvwaMMMMMMLaqx! i,;:.,:             :.   
-  :    ;c           :mhMMMMokwUI. ,.YkMMMMWWWWMMoMMLIul,I.: :            ,,;    
- :,   ,q.                .,        ,i IoMWWMWMMMMMMITI;,;. .       ,, ..,,    : 
- i   ,.,                 .      ,,     ,oMWWWWWWMMzT!I,   .:, ..:   :i.      !:,
-        :              I,.     .f     .:!MMWWMMMbiI,:.,,., ;,  ;,,:.       iITtF
-  il   il          ;  i;      .I;    ;,  uMMMdumtYl:IIIi,     .:.       :tI,..  
-;uuF   h.         ,  ;I      .,.    ;    :dFwvbnr;;;.    .:.                rwaM
-dJI  .;Y            ,l       i ,  .I   ..IXcoUtIi,::,:             !Yf:, lkMMMWW
-w, . ;J          :..;       ::., ;i    .. znI,;:i;                 iIc.JaMMMWWWW
-  jh If:        . .:.       I : ;:     .:::,:; i.                   .UMMWWWWWWWW
-FfIMX           ..I.       ; , .    I,..,;,  .!             .      :kMWWWWWWWWWW
-Mtjho:          iI        ,i,   i  l:,:i.               :,  vJ:   ;aMWMWWWWWWWWW
-QtvjMa         :i         I,.     .;lF:  r.           .QT  ndt!T!fhMWWWWWWWMWWWM
-
+%%+     .                                 
+%%=         . ..                          
+%%=    -     .::. .                       
+%%*: . -.    .: : :. ...                  
+%%#=.  --    :- +     +:                  
+%%##:  :+. :  :.-.    :                   
+%%%#+   :-  -..-.*:. =+   .    .          
+%%#*-   -+=-:+**+=-.===.                  
+%##-    +##%*+%#-:--::-.      .      ..   
+##= .. .#*##%%%%**%%+-:. ..   .      ..   
+%+:=.  :##%###%%%#****+-..   .      :+.   
+*.:.  -#%%%%#####%#***=-:-          ..    
+:--.  .#%%%%%%%#####%####-.               
+.=:    =#*%%%%%%%#######%=-               
++= .   -%%%%%%%%%##%#####++: .     .      
+* .:    *#%%%%%######%#%%%*:       :      
+:.=     -#%#%%%%##%%%%%%%+:               
+.=      .*%#*%%##%%%%%%%%*-               
+:.     . :%#%%%##%%%%%%%%*:               
+-        :%#%%##%%%%%%#++:.     .         
+    .    .%%%%%%%%%*=#*=###- .            
+   .:     .+**+=. :+*#%%%%*:.             
+   .                =%#%%%:             . 
+                .    *%##=            .   
+:: :.      .         :+*+-.            .=:
++  -                 .+=:.         -..+%@=
+ -.:                 .:            .+%%%%=
+:+=                            .   *%%%%%=
++=*     .            .      . .*..+%%%%%%=
 """
 
 # two tokens by design: the Actions GITHUB_TOKEN yields the contribution-style
