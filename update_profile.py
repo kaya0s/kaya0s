@@ -98,9 +98,9 @@ def fetch_stats():
       user(login: "{USER}") {{
         id
         followers {{ totalCount }}
-        repositories(first: 100, ownerAffiliations: OWNER) {{
+        repositories(first: 100, ownerAffiliations: OWNER, privacy: PUBLIC) {{
           totalCount
-          nodes {{ name stargazerCount isFork }}
+          nodes {{ name stargazerCount isFork isPrivate }}
         }}
         repositoriesContributedTo(first: 1, contributionTypes: [COMMIT, PULL_REQUEST, REPOSITORY]) {{
           totalCount
@@ -113,7 +113,7 @@ def fetch_stats():
         "contributed": u["repositoriesContributedTo"]["totalCount"],
         "commits": commits,
     }
-    stats.update(loc([n["name"] for n in u["repositories"]["nodes"] if not n["isFork"]], u["id"]))
+    stats.update(loc([n["name"] for n in u["repositories"]["nodes"] if not n.get("isPrivate", False)], u["id"]))
     return stats
 
 
